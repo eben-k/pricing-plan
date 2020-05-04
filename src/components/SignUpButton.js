@@ -2,9 +2,9 @@ import React from "react";
 
 const SignUpButton = () => (
   <div>
-    <btn href="#" class="btn btn-full">
+    <button href="#" className="btn btn-full">
       Sign up now
-    </btn>
+    </button>
   </div>
 );
 
