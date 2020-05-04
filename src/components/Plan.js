@@ -9,12 +9,12 @@ const Plan = ({ plan }) => {
       <div className="row">
         <div className="col span-1-of-3">
           <div className="plan-box">
-            <h2>{plan.title}</h2>
+            <h3>{plan.title}</h3>
             <div>
               <p className="plan-price">
-                {plan.price} <span>/ month</span>
+               $ {plan.price} <span>/ month</span>
               </p>
-              <p className="plan-price-meal">You get the folllowing benefits</p>
+              <p className="plan-price-meal">You get the following benefits</p>
             </div>
             <div>
               <ul>
