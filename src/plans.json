@@ -1,0 +1,26 @@
+[
+    {"id":"73b96cde-891c-46bd-9b68-e71d5e87f98x",
+		"title": "Bronze",
+		"description": "1 meal every day",
+        "order": "Order 24/7",
+        "access":"Access to newest creations",
+        "delivery": "Free delivery",
+        "price": "199"
+    },
+    {"id":"73b96cde-891c-46bd-9b68-e71d5e87f98x",
+		"title": "Silver",
+		"description": "Same as bronze plus free drinks",
+        "order": "Order 24/7",
+        "access":"Access to newest creations",
+        "delivery": "Free delivery",
+        "price": "249"
+    },
+    {"id":"73b96cde-891c-46bd-9b68-e71d5e87f98x",
+		"title": "Gold",
+		"description": "All the perks of bronze and gold with desserts",
+        "order": "Order 24/7",
+        "access":"All year access",
+        "delivery": "Free delivery",
+        "price": "350"
+	}
+]
