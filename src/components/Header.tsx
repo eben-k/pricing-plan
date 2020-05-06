@@ -1,10 +1,11 @@
 import React from "react";
 
+type HeaderProps = { text: string };
 
-const Header = (props) => {
+const Header = ({ text }: HeaderProps) => {
   return (
     <header className="app-header">
-      <h1>{props.text}</h1>
+      <h1>{text}</h1>
     </header>
   );
 };
